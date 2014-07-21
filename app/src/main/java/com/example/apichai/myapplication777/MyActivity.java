@@ -21,7 +21,10 @@ public class MyActivity extends Activity {
         getMenuInflater().inflate(R.menu.my, menu);
         ////5555
         ///6666
-
+        ////777
+        ///888
+        ////99999
+        ///4444444666666
         return true;
     }
 
